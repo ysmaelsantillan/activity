@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojt\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\ojt\\Documents\\git\\activity\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojt\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\ojt\\Documents\\git\\activity\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojt\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\ojt\\Documents\\git\\activity\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\ojt\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\ojt\\Documents\\git\\activity\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\ojt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojt\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\ojt\\Documents\\git\\activity\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojt\\AppData\\Roaming\\NuGet\\NuGet.Config",
