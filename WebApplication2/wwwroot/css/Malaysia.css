@@ -1,0 +1,49 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url("malaysia.jpg");
+}
+
+.towers {
+    border-style: solid;
+    background-color: white;
+    color: darkgoldenrod;
+}
+
+.caves {
+    border-style: solid;
+    background-color: white;
+    color: darkgoldenrod;
+}
+
+.nara {
+    border-style: solid;
+    background-color: white;
+    color: darkgoldenrod;
+}
+
+.cc {
+    border-style: solid;
+    background-color: white;
+    color: darkgoldenrod;
+}
+
+.penang {
+    border-style: solid;
+    background-color: white;
+    color: darkgoldenrod;
+}

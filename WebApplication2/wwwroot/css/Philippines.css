@@ -1,0 +1,67 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url("Philippines.jpg");
+  background-size: contain
+  
+ 
+  
+}
+
+
+
+h3 {
+    border-style: solid;
+    background-color: white;
+
+}
+
+h1 {
+    color: white;
+}
+
+.nes {
+    border-style: solid;
+    background-color: white;
+    color: black;
+}
+
+.gao {
+    border-style: solid;
+    background-color: white;
+    color: blue;
+}
+
+.late {
+    border-style: solid;
+    background-color: white;
+    color: red;
+}
+
+.wan {
+    border-style: solid;
+    background-color: white;
+    color: darkorange;
+}
+
+.ros {
+    border-style: solid;
+    background-color: white;
+    color: black;
+}
+
+
